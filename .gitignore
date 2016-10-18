@@ -46,3 +46,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /UtilExamples/nbproject/private/
+/UtilExamples/build/
+/UtilExamples/dist/
