@@ -12,5 +12,9 @@ import Arrays.*;
  * @author johanr98 jsromerod@unal.edu.co
  */
 public class Example {
+
+    public static void main(String[] args) {
+        System.out.println("Hola mundo");
+    }
     
 }
